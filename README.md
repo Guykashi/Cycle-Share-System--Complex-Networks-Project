@@ -13,16 +13,16 @@ Content
 
 There are 2 datasets that provide data on the stations and trips from 2014-2016.
 
-Station dataset
-station_id: station ID number
-name: name of station
-lat: station latitude
-long: station longitude
-Trip dataset
-trip_id: numeric ID of bike trip taken
-bikeid: ID attached to each bike
-trip_duration: time of trip in seconds
-from_station_name: name of station where trip originated
-to_station_name: name of station where trip terminated
-from_station_id: ID of station where trip originated
-to_station_id: ID of station where trip terminated
+* Station dataset
+* station_id: station ID number
+* name: name of station
+* lat: station latitude
+* long: station longitude
+* Trip dataset
+* trip_id: numeric ID of bike trip taken
+* bikeid: ID attached to each bike
+* trip_duration: time of trip in seconds
+* from_station_name: name of station where trip originated
+* to_station_name: name of station where trip terminated
+* from_station_id: ID of station where trip originated
+* to_station_id: ID of station where trip terminated
